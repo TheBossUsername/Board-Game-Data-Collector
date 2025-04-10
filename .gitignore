@@ -1,0 +1,27 @@
+.env
+
+auto.py
+
+images
+
+extract.py
+
+__pycache__/
+
+*.py[cod]
+
+.venv/
+
+venv/
+
+*.log
+
+Thumbs.db  # Windows
+
+.vscode
+
+CNAME
+
+node_modules
+
+board_game+ (boardgames).hyper
